@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.32584ee7.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAGnB,KACE,4BACF","sources":["index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n\nbody {\n  font-family: 'Inter', sans-serif; /* Recommended font */\n}"],"names":[],"sourceRoot":""}
