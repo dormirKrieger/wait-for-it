@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import {BrowserRouter} from 'react-router-dom';
-import Calculator2 from './components/Calculator2';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -13,7 +12,7 @@ root.render(
     <BrowserRouter>
       <App salutation='Yeehaww!!!'/>
     </BrowserRouter>
-    <Calculator2/>
+    
   </React.StrictMode>
 );
 
