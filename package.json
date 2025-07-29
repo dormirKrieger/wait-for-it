@@ -1,5 +1,6 @@
 {
   "name": "wait-for-it",
+  "homepage": "https://dormirKrieger.github.io/wait-for-it",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

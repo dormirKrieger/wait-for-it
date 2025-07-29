@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import './App.css'; // Assuming you have some basic styling
+
 
 // Placeholder components for different pages
 const HomePage = () => (
